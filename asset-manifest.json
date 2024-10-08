@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-store-project/static/css/main.9418c1c7.css",
-    "main.js": "/React-store-project/static/js/main.5535d2f0.js",
+    "main.js": "/React-store-project/static/js/main.e9a7e66e.js",
     "static/js/453.8737c48a.chunk.js": "/React-store-project/static/js/453.8737c48a.chunk.js",
     "static/media/banner_kids.png": "/React-store-project/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/React-store-project/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -46,11 +46,11 @@
     "static/media/man-wearing-white-shirt-shorts-that-says-hes-wearing-shirt_1313274-13726.jpg": "/React-store-project/static/media/man-wearing-white-shirt-shorts-that-says-hes-wearing-shirt_1313274-13726.095d5ace613d3327ee6c.jpg",
     "index.html": "/React-store-project/index.html",
     "main.9418c1c7.css.map": "/React-store-project/static/css/main.9418c1c7.css.map",
-    "main.5535d2f0.js.map": "/React-store-project/static/js/main.5535d2f0.js.map",
+    "main.e9a7e66e.js.map": "/React-store-project/static/js/main.e9a7e66e.js.map",
     "453.8737c48a.chunk.js.map": "/React-store-project/static/js/453.8737c48a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9418c1c7.css",
-    "static/js/main.5535d2f0.js"
+    "static/js/main.e9a7e66e.js"
   ]
 }
